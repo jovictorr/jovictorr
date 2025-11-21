@@ -1,7 +1,7 @@
 ### Olá! Eu sou o João Victor! 😄
 
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-carvalho-barbosa-pereira-18b6a3235/)<br>
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaovictorcbpereira/)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 ## Tecnologias utilizadas
